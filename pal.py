@@ -1,5 +1,4 @@
 n=int(input())
-if(n<=1000):
     temp=n
     rev=0
     while(n>0):
