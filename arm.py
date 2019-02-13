@@ -1,5 +1,6 @@
 num=int(input())
-order=len(str(num)
+order=len(str(num))
+s=0
 temp=int(num)
 while temp>0:
   digit=temp%10
